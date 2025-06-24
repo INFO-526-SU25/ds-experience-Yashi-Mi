@@ -1,7 +1,8 @@
 ---
 title: "Data Science Experience"
-subtitle: "<Name of the Experience>"
-author: "Add your name here"
+subtitle: "<Talking Data virilization with a Research Investigator
+e>"
+author: "Yashi-Mi"
 categories: "Lab"
 
 ---
@@ -16,12 +17,13 @@ categories: "Lab"
 
 ## Part 1: Experience data science outside of the classroom {#part-1-experience-data-science-outside-of-the-classroom}
 
-Give the information for the experience. 
+I had a conversation with a Scientific Research Investigator at center for innovation in brain science who works extensively with single-nucleus RNA-seq, bulk RNA-seq, and lipidomics in neurodegenerative disease research.
+
 
 ## Part 2: Summarize your experience {#part-2-summarize-your-experience}
 
 Summary: 
-
+Through a conversation with a research investigator, I learned how single-nucleus RNA-seq and lipidomics can be used to extract meaningful insights about brain metabolism and cell-type-specific gene expression. We also discussed a recent study showing that combination therapy can significantly delay Alzheimer’s-related cognitive decline. This experience highlighted the critical role of data visualization in analyzing multi-omics data and deepened my understanding of the knowledge needed for my own research.
 
 ## Submission {#submission}
 
